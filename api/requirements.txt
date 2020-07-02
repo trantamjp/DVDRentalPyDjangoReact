@@ -1,0 +1,5 @@
+django==3.0.8
+psycopg2==2.8.5
+pypugjs==5.9.4
+python-dotenv==0.13.0
+django-extensions==3.0.2
